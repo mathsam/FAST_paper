@@ -1,0 +1,15 @@
+mkl
+datasets==1.15.1
+torch
+pathos
+nltk
+pytest
+scikit-learn
+sentencepiece
+transformers==4.12.3
+huggingface_hub==0.1.2
+accelerate
+protobuf
+pandas
+chardet
+bertviz
